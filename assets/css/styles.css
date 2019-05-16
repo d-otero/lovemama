@@ -1,0 +1,346 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: futura-pt, sans-serif;
+}
+
+body {
+  max-width: 100vw;
+  /*width: 100vw;*/
+  overflow-x: hidden;
+  font-size: 10px;
+}
+
+#section-holder {
+  display: flex;
+  flex-direction: column;
+}
+
+.section {
+  height: 100vh;
+  position: relative;
+}
+
+.section-title-block {
+  overflow-x: hidden;
+  margin-top: -6%;
+  margin-left: -3%;
+  height: 300px;
+  min-width: 107%;
+  background-color: #F2D639;
+  transform: rotate(-3.76deg);
+}
+
+#menu {
+  height:100%;
+  margin-top: 4rem;
+}
+
+@media (min-width: 576px) {
+  .section-title-block {
+    top: -12%;
+  }
+}
+
+#top-bar-address {
+  position: fixed;
+  display: flex;
+  align-items: center;
+  height: 1.6rem;
+  text-align: center;
+  width: 100vw;
+  background-color: #000000;
+  color: rgb(255,255,255);
+  display: none;
+  top: 0;
+  left: 0;
+  z-index: 10;
+}
+
+#about-row {
+  height: 100%;
+}
+
+@media (min-width: 576px) {
+  #top-bar-address {
+    display: block;
+  }
+}
+
+.nav-item {
+  font-size: .9rem;
+  margin: 0 .13rem;
+}
+
+.navbar-brand {
+  background-image: url("../../assets/img/LOVE%20MAMA.svg");
+  width: 10rem;
+  height: 2rem;
+  background-position: left;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.navbar {
+  width: 100vw;
+  position: fixed;
+  background-color: #F2D639;
+  height: 4rem;
+  top: 0;
+  left: 0;
+  z-index: 10;
+}
+
+#hero {
+  width: 100vw;
+  background-image: url("../../assets/img/celebrate-celebration-cheers-1268558.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.hero-text {
+  /*display: none;*/
+  font-size: 2rem;
+  margin: .6rem 1rem;
+  padding: .6rem 1rem;
+  color: rgb(255,255,255);
+  background-color: #000000;
+  max-width: 90%;
+}
+
+#desktop-logo {
+  background-image: url("../../assets/img/LOVE%20MAMA.svg");
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 12rem;
+  height: 2.4rem;
+  flex-grow: 2;
+  margin: 0;
+}
+
+#contact-description {
+  position: inherit;
+  margin-top: 6rem;
+  margin-bottom: 8rem;
+  transform: rotate(3.76deg);
+}
+
+#contact-description-content {
+  transform: rotate(-3.76deg);
+}
+
+@media (min-width: 576px) {
+  #contact-description {
+    position: inherit;
+    margin-top: 10rem;
+  }
+}
+
+@media (min-width: 576px) {
+  .navbar {
+    top: 1.6rem;
+  }
+}
+
+@media (min-width: 576px) {
+  .hero-text {
+    font-size: 2rem;
+    font-weight: bold;
+    max-width: 30rem;
+  }
+}
+
+@media (min-width: 992px) {
+  .hero-text {
+    font-size: 2.4rem;
+    max-width: 35rem;
+  }
+}
+
+@media (min-width: 1200px) {
+  .hero-text {
+    font-size: 3rem;
+    max-width: 45rem;
+  }
+}
+
+@media (min-width: 576px) {
+  #hero-text-1 {
+    margin-right: 20%;
+  }
+}
+
+@media (min-width: 576px) {
+  #hero-text-2 {
+    margin-left: 20%;
+  }
+}
+
+#hero-arrow {
+  background-color: #fff;
+  position: absolute;
+  width: 6.5rem;
+  height: 6.5rem;
+  border-radius: 50%;
+  bottom: -4rem;
+  background-image: url("../../assets/img/arrow.svg");
+  background-size: 40%;
+  background-repeat: no-repeat;
+  background-position: 50%18%;
+}
+
+.description-container {
+  width: 80%;
+  max-height: 90%;
+  max-width: 50rem;
+  text-align: center;
+}
+
+.description-container-heading {
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+.description-container-text {
+  font-weight: normal;
+  font-size: 1rem;
+  margin-top: 4.2rem;
+}
+
+.col.img-90h {
+  height: 90%;
+  background-image: url("../../assets/img/anise-aroma-art-277253.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  max-height: 90%;
+}
+
+#about-info {
+  flex-grow: 2;
+}
+
+@media (min-width: 576px) {
+  .description-container-text {
+    margin-top: 2rem;
+    max-width: 70%;
+  }
+}
+
+.description-container-text:first-child {
+  max-width: 80%;
+}
+
+@media (min-width: 768px) {
+  .col.img-90h {
+    display: block;
+  }
+}
+
+@media (min-width: 992px) {
+  .col.img-90h {
+    margin-left: 3.8rem;
+  }
+}
+
+@media (min-width: 992px) {
+  description-container-heading {
+    max-width: 30rem;
+  }
+}
+
+@media (min-width: 768px) {
+  #about-info {
+    flex-grow: 1;
+  }
+}
+
+@media (min-width: 992px) {
+  .nav-item {
+    font-size: .9rem;
+    margin: 0 1rem;
+  }
+}
+
+#menu-description-content {
+  margin-left: -2%;
+  transform: rotate(3.76deg);
+  max-width: 50rem;
+}
+
+.nav.nav-tabs {
+  border-bottom: 1px;
+  border-color: #000;
+}
+
+.col.menu-items {
+  flex-grow: 2;
+}
+
+#contact {
+  height: 100%;
+  display: flex;
+  padding: 3rem 0;
+  justify-content: space-evenly;
+  align-items: center;
+  background-color: #000;
+  color: #fff;
+}
+
+@media (min-width: 1200px) {
+  #contact {
+    padding: 4rem 0;
+  }
+}
+
+#contact-container {
+  width: 100%;
+  align-self: center;
+  justify-content: center;
+}
+
+.col.contact-col {
+  display: flex;
+  flex-wrap: wrap;
+  font-size: 2rem;
+  justify-content: center;
+  align-items: center;
+  /*min-width: 100%;*/
+  max-width: 20rem;
+  margin: .6rem 0;
+}
+
+@media (min-width: 768px) {
+  .col.contact-col {
+    margin: 0;
+    min-width: 0;
+  }
+}
+
+.col.contact-col h1 {
+  font-size: .8rem;
+  font-weight: 300;
+  width: max-content;
+  max-width: 70%;
+  margin-left: .9rem;
+  text-align: center;
+}
+
+#navcol-1 {
+  width: 100vw;
+}
+
+.navbar-nav {
+  display: flex;
+}
+
+.nav-link {
+  display: flex;
+  /*width: min-content;*/
+  /*flex-wrap: nowrap;*/
+  padding: 9;
+}
+

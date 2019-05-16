@@ -1,0 +1,507 @@
+[
+    {
+        "category": {
+            "category_name": "appetizers",
+            "items": [
+                {
+                    "item_name": "Thai Shumai Dumpling",
+                    "item_price": "$6.00",
+                    "item_description": "Four pieces. Minced pork, shrimp, garlic crisps, sweet ginger soy sauce.",
+                    "type": "thai"
+                },
+                {
+                    "item_name": "Uncle Plump's Dumpling",
+                    "item_price": "$6.00",
+                    "item_description": "Pork, chive, smoked chili oil and peanut dipping sauce. Hot and spicy",
+                    "type": "thai"
+                },
+                {
+                    "item_name": "Vietnamese Pork Spring Rolls",
+                    "item_price": "$7.00",
+                    "item_description": "Four pieces",
+                    "type": "vietnamese"
+                },
+                {
+                    "item_name": "Vietnamese Vegetable Spring Rolls",
+                    "item_price": "$7.00",
+                    "item_description": "Four pieces",
+                    "type": "vietnamese"
+                },
+                {
+                    "item_name": "Vietnamese Vegetable Summer Roll",
+                    "item_price": "$7.00",
+                    "item_description": "Two pieces",
+                    "type": "vietnamese"
+                },
+                {
+                    "item_name": "Vietnamese Shrimp Summer Roll",
+                    "item_price": "$7.00",
+                    "item_description": "Two pieces",
+                    "type": "vietnamese"
+                },
+                {
+                    "item_name": "BBQ Char Siu Bun",
+                    "item_price": "$6.00",
+                    "item_description": "Roasted chicken or pork, Thai dark soy sauce and sriracha mayonnaise",
+                    "type": "malaysian"
+                },
+                {
+                    "item_name": "Steamed Chinese Broccoli with Oyster Sauce",
+                    "item_price": "$7.00",
+                    "item_description": "",
+                    "type": "all"
+                },
+                {
+                    "item_name": "Malaysian Chicken Satay Shish Kebab",
+                    "item_price": "$8.00",
+                    "item_description": "Marinated chicken with lemongrass and cumin seasonings, charcoal grilled with peanut dipping sauce",
+                    "type": "malaysian"
+                },
+                {
+                    "item_name": "Thai Fried Chicken Wings",
+                    "item_price": "$8.00",
+                    "item_description": "Three pieces. Mix Thai spices, shaoxing wine, garlic sweet and spicy glaze. Hot and spicy",
+                    "type": "thai"
+                },
+                {
+                    "item_name": "Five Spice Crispy Calamari",
+                    "item_price": "$10.00",
+                    "item_description": "Calamari tempura sauteed with siracha five spice seasonings. Hot and spicy",
+                    "type": "thai"
+                },
+                {
+                    "item_name": "Kaffir Lime Lemongrass Mussels",
+                    "item_price": "$10.00",
+                    "item_description": "Wok sautee mussels, homemade lemongrass paste, hand picked birdeye chili. Hot and spicy",
+                    "type": "vietnamese"
+                },
+                {
+                    "item_name": "Steamed Pork Buns",
+                    "item_price": "$4.00",
+                    "item_description": "Two pieces",
+                    "type": "all"
+                },
+                {
+                    "item_name": "Edamame",
+                    "item_price": "$6.00",
+                    "item_description": "Soy bean with sea salt",
+                    "type": "all"
+                },
+                {
+                    "item_name": "Crabmeat Rangoon",
+                    "item_price": "$10.00",
+                    "item_description": "Calamari tempura sauteed with siracha five spice seasoning s. Hot and spicy",
+                    "type": "thai"
+                },
+                {
+                    "item_name": "Cold Noodles in Sesame Sauce",
+                    "item_price": "$6.00",
+                    "item_description": "",
+                    "type": "all"
+                },
+                {
+                    "item_name": "Roti Canai Planta",
+                    "item_price": "$6.00",
+                    "item_description": "Malaysian crispy and fluffy roti dough with curry dipping sauce. Vegetarian. Hot and spicy",
+                    "type": "malaysian"
+                }
+            ]
+        }
+    },
+    {
+        "category": {
+            "category_name": "soups",
+            "items": [
+                {
+                    "item_name": "Egg Drop Soup",
+                    "item_price": "$3.00",
+                    "item_description": "",
+                    "type": "all"
+                },
+                {
+                    "item_name": "Hot and Sour Soup",
+                    "item_price": "$3.00",
+                    "item_description": "Pork, chive, smoked chili oil and peanut dipping sauce. Hot and spicy",
+                    "type": "thai"
+                },
+                {
+                    "item_name": "Egg Drop Wonton Mixed Soup",
+                    "item_price": "$4.00",
+                    "item_description": "",
+                    "type": "all"
+                },
+                {
+                    "item_name": "House Chicken Soup",
+                    "item_price": "$6.00",
+                    "item_description": "",
+                    "type": "all"
+                },
+                {
+                    "item_name": "Wonton Soup",
+                    "item_price": "$6.00",
+                    "item_description": "",
+                    "type": "all"
+                },
+                {
+                    "item_name": "Tom Yum Lemongrass Soup",
+                    "item_price": "$6.00",
+                    "item_description": "Tomatoes, mushroom, cilantro, home pounded Tom Yum paste",
+                    "type": "all"
+                },
+                {
+                    "item_name": "Wonton Bok Choy Soup",
+                    "item_price": "$6.00",
+                    "item_description": "Baby bok choy, shitake mushroom and fresh wonton",
+                    "type": "all"
+                },
+                {
+                    "item_name": "Coconut Curry Chicken Soup",
+                    "item_price": "$6.00",
+                    "item_description": "Chicken, tofu, lemongrass, bean sprouts and fresh mint. Hot and spicy",
+                    "type": "all"
+                },
+                {
+                    "item_name": "Wonton Noodle Soup",
+                    "item_price": "$7.00",
+                    "item_description": "",
+                    "type": "all"
+                },
+                {
+                    "item_name": "Curry Wonton Soup",
+                    "item_price": "$10.00",
+                    "item_description": "",
+                    "type": "all"
+                },
+                {
+                    "item_name": "Tom Yum Wonton Soup",
+                    "item_price": "$10.00",
+                    "item_description": "",
+                    "type": "all"
+                },
+                {
+                    "item_name": "Curry Chicken Soup",
+                    "item_price": "$10.00",
+                    "item_description": "",
+                    "type": "all"
+                },
+                {
+                    "item_name": "Tom Yum Chicken Soup",
+                    "item_price": "$10.00",
+                    "item_description": "",
+                    "type": "all"
+                },
+                {
+                    "item_name": "Curry Vegetable Soup",
+                    "item_price": "$10.00",
+                    "item_description": "",
+                    "type": "all"
+                },
+                {
+                    "item_name": "Tom Yum Vegetable Soup",
+                    "item_price": "$10.00",
+                    "item_description": "",
+                    "type": "all"
+                }
+            ]
+        }
+    },
+    {
+        "category": {
+            "category_name": "salad",
+            "items": [
+                {
+                    "item_name": "Thai Style Papaya Salad",
+                    "item_price": "$8.00",
+                    "item_description": "Fresh pounded papaya, carrot, roasted peanut, tomatoes, long beans and fresh lime dressing. Hot and spicy",
+                    "type": "thai"
+                },
+                {
+                    "item_name": "Vegetable Salad Vietnamese Style",
+                    "item_price": "$8.00",
+                    "item_description": "Mixed vegetables",
+                    "type": "all"
+                },
+                {
+                    "item_name": "Mango salad",
+                    "item_price": "$8.00",
+                    "item_description": "Mango, onion and cashew nut in spicy lime dressing",
+                    "type": "all"
+                }
+            ]
+        }
+    },
+    {
+        "category": {
+            "category_name": "pho",
+            "items": [
+                {
+                    "item_name": "House Special Noodle Soup",
+                    "item_price": "$12.00",
+                    "item_description": "Rice noodle soup with fresh eye of round, brisket and beef meatball",
+                    "type": "vietnamese"
+                },
+                {
+                    "item_name": "Beef Eye Round Noodle",
+                    "item_price": "$12.00",
+                    "item_description": "Beef eye round noodle soup, medium rare served with bean sprout, basil and fresh lime",
+                    "type": "vietnamese"
+                },
+                {
+                    "item_name": "Beef Brisket Noodle",
+                    "item_price": "$12.00",
+                    "item_description": "Beef brisket noodle soup served with bean sprouts, fresh lime and basil",
+                    "type": "vietnamese"
+                },
+                {
+                    "item_name": "Chicken Noodle Soup",
+                    "item_price": "$12.00",
+                    "item_description": "Shredded chicken with broccoli, sliced carrot, celery and jalapeno in noodle",
+                    "type": "vietnamese"
+                },
+                {
+                    "item_name": "Mixed Vegetables Noodle Soup",
+                    "item_price": "$10.00",
+                    "item_description": "Mixed vegetables with tofu, bean sprouts, fresh lime, basil and jalapeno",
+                    "type": "vietnamese"
+                }
+            ]
+        }
+    },
+    {
+        "category": {
+            "category_name": "steamed",
+            "items": [
+                {
+                    "item_name": "Steamed Broccoli with Tofu",
+                    "item_price": "$12.00",
+                    "item_description": "Side serving of sauce",
+                    "type": "all"
+                },
+                {
+                    "item_name": "Steamed Vegetable with Tofu",
+                    "item_price": "$12.00",
+                    "item_description": "Side serving of sauce",
+                    "type": "all"
+                },
+                {
+                    "item_name": "Steamed Broccoli with Chicken",
+                    "item_price": "$13.00",
+                    "item_description": "Side serving of sauce",
+                    "type": "all"
+                },
+                {
+                    "item_name": "Steamed Vegetable with Chicken",
+                    "item_price": "$13.00",
+                    "item_description": "Side serving of sauce",
+                    "type": "all"
+                },
+                {
+                    "item_name": "Steamed Ginger and Scallion Fish",
+                    "item_price": "$16.00",
+                    "item_description": "Steamed fish filet with Chinese broccoli in ginger and scallion. Served with sauce on the side",
+                    "type": "all"
+                },
+                {
+                    "item_name": "Curry Fish",
+                    "item_price": "$16.00",
+                    "item_description": "Fried fish fillet with basil, onions, peppers and scallions in curry sauce. Served with sauce on the side. Hot and spicy",
+                    "type": "all"
+                },
+                {
+                    "item_name": "Tamarind Fish",
+                    "item_price": "$16.00",
+                    "item_description": "Fried fish fillet with basil, onions, scallions, peppers and pineapple in tamarind sauce. Served with sauce on the side",
+                    "type": "all"
+                }
+            ]
+        }
+    },
+    {
+        "category": {
+            "category_name": "stir fried",
+            "items": [
+                {
+                    "item_name": "Char Kney Teow",
+                    "item_price": "$12.00",
+                    "item_description": "Malaysian style famous stir fried rice noodle, bean sprouts, chives, egg, soy sauce and fresh chili paste. Hot and spicy",
+                    "type": "malaysian"
+                },
+                {
+                    "item_name": "Singapore Mei Fun",
+                    "item_price": "$12.00",
+                    "item_description": "Chili, egg, bell pepper, bean sprout and scallion. Hot and spicy",
+                    "type": "all"
+                },
+                {
+                    "item_name": "Lo Mein",
+                    "item_price": "$10.00",
+                    "item_description": "Stir fried soft egg noodle",
+                    "type": "all"
+                },
+                {
+                    "item_name": "House Special Lo Mein",
+                    "item_price": "$12.00",
+                    "item_description": "Stir fried with chicken, shrimp and pork",
+                    "type": "thai"
+                },
+                {
+                    "item_name": "Pad See Eew",
+                    "item_price": "$12.00",
+                    "item_description": "Stir fried wide noodle with egg and Asian broccoli",
+                    "type": "thai"
+                },
+                {
+                    "item_name": "Fried Rice",
+                    "item_price": "$10.00",
+                    "item_description": "",
+                    "type": "all"
+                },
+                {
+                    "item_name": "House Special Fried Rice",
+                    "item_price": "$12.00",
+                    "item_description": "Stir fried with chicken, shrimp and pork",
+                    "type": "all"
+                },
+                {
+                    "item_name": "Curry Pineapple Fried Rice",
+                    "item_price": "$12.00",
+                    "item_description": "Pineapple, egg, onions, peas and cashew nuts. Hot and spicy",
+                    "type": "thai"
+                },
+                {
+                    "item_name": "Thai Fried Rice",
+                    "item_price": "$10.00",
+                    "item_description": "Scallion, egg, tomato, Chinese broccoli with Thai soy sauce",
+                    "type": "thai"
+                },
+                {
+                    "item_name": "Coconut Flavor Fried Rice",
+                    "item_price": "$12.00",
+                    "item_description": "String bean, cabbage, tomatoes and egg with fresh cilantro. Hot and spicy",
+                    "type": "all"
+                }
+            ]
+        }
+    },
+    {
+        "category": {
+            "category_name": "rice bowl",
+            "items": [
+                {
+                    "item_name": "General Tso Chicken Rice Bowl",
+                    "item_price": "$9.25",
+                    "item_description": "Hot and spicy",
+                    "type": "all"
+                },
+                {
+                    "item_name": "Sesame Chicken Rice Bowl",
+                    "item_price": "$9.25",
+                    "item_description": "",
+                    "type": "all"
+                },
+                {
+                    "item_name": "Mixed Vegetables Rice Bowl",
+                    "item_price": "$9.25",
+                    "item_description": "",
+                    "type": "all"
+                },
+                {
+                    "item_name": "Broccoli Tofu Rice Bowl",
+                    "item_price": "$9.25",
+                    "item_description": "",
+                    "type": "all"
+                },
+                {
+                    "item_name": "Ma Po Tofu Rice Bowl",
+                    "item_price": "$12.00",
+                    "item_description": "Hot and spicy",
+                    "type": "all"
+                },
+                {
+                    "item_name": "Mixed Vegetable Tofu Rice Bowl",
+                    "item_price": "$9.25",
+                    "item_description": "",
+                    "type": "all"
+                },
+                {
+                    "item_name": "Chicken Broccoli Rice Bowl",
+                    "item_price": "$9.25",
+                    "item_description": "",
+                    "type": "all"
+                },
+                {
+                    "item_name": "Garlic Broccoli Rice Bowl",
+                    "item_price": "$9.25",
+                    "item_description": "Hot and Spicy",
+                    "type": "all"
+                },
+                {
+                    "item_name": "Hot and Spicy Chicken with String Bean Rice Bowl",
+                    "item_price": "$9.25",
+                    "item_description": "Hot and Spicy",
+                    "type": "all"
+                },
+                {
+                    "item_name": "Curry Chicken Rice Bowl",
+                    "item_price": "$9.25",
+                    "item_description": "Hot and Spicy",
+                    "type": "all"
+                },
+                {
+                    "item_name": "Garlic Chicken Rice Bowl",
+                    "item_price": "$9.25",
+                    "item_description": "Hot and Spicy",
+                    "type": "all"
+                },
+                {
+                    "item_name": "Garlic Broccoli Rice Bowl",
+                    "item_price": "$9.25",
+                    "item_description": "Hot and Spicy",
+                    "type": "all"
+                },
+                {
+                    "item_name": "Grilled Chicken Rice Bowl w/ Chicken",
+                    "item_price": "$12.00",
+                    "item_description": "Grilled chicken lemongrass on rice served with cucumber and tomatoes",
+                    "type": "all"
+                },
+                {
+                    "item_name": "Fried Rice Bowl",
+                    "item_price": "$9.25",
+                    "item_description": "With choice of protein",
+                    "type": "all"
+                },
+                {
+                    "item_name": "Lo Mein Bowl",
+                    "item_price": "$9.25",
+                    "item_description": "With choice of protein",
+                    "type": "all"
+                },
+                {
+                    "item_name": "Pepper Steak Rice Bowl",
+                    "item_price": "$9.25",
+                    "item_description": "",
+                    "type": "all"
+                },
+                {
+                    "item_name": "Broccoli Steak Rice Bowl",
+                    "item_price": "$9.25",
+                    "item_description": "",
+                    "type": "all"
+                },
+                {
+                    "item_name": "Lemongrass Chicken Rice Bowl",
+                    "item_price": "$12.00",
+                    "item_description": "Sauteed chicken with lemongrass, bell peppers, broccoli and white onion on rice",
+                    "type": "all"
+                },
+                {
+                    "item_name": "Pork Chop Rice Bowl",
+                    "item_price": "$12.00",
+                    "item_description": "Grilled pork chop on rice served with sliced cucumber and tomatoes",
+                    "type": "all"
+                }
+            ]
+        }
+    }
+]
